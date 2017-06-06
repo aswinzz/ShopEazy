@@ -16,6 +16,9 @@ A Dummy Shopping Site Made Using NodeJS where you can signup/signin and add item
 
 * Clone This Repo And Open The Folder In Console
 * Run `sudo npm install`
+* Run `cd seed`
+* Run `node product-seeder.js` This Step Is To Seed The Database With the items.
+* Run `cd ..`
 * Then `node app`
 * Open `localhost:3000` in your Browser
 * You Are Done!! :wink:
