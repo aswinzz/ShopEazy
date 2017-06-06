@@ -24,6 +24,6 @@ A Dummy Shopping Site Made Using NodeJS where you can signup/signin and add item
 * You Are Done!! :wink:
 
 ## Screenshots
-![](https://github.com/aswinzz/ShopEazy/blob/master/gifscr.gif?raw=true)
+![](https://github.com/aswinzz/ShopEazy/blob/master/gitscr.gif?raw=true)
 
 
