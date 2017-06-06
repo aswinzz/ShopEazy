@@ -30,6 +30,6 @@ A Dummy Shopping Site Made Using NodeJS where you can signup/signin and add item
 
 ![scr3](https://github.com/aswinzz/ShopEazy/blob/master/scr3.png?raw=true)
 
-![scr4](https://github.com/aswinzz/ShopEazy/blob/master/scr3.png?raw=true)
+![scr4](https://github.com/aswinzz/ShopEazy/blob/master/scr4.png?raw=true)
 
 
