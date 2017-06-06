@@ -19,7 +19,7 @@ A Dummy Shopping Site Made Using NodeJS where you can signup/signin and add item
 * Run `cd seed`
 * Run `node product-seeder.js` This Step Is To Seed The Database With the items.
 * Run `cd ..`
-* Then `node app`
+* Then `sudo npm start`
 * Open `localhost:3000` in your Browser
 * You Are Done!! :wink:
 
