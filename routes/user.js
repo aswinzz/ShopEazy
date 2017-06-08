@@ -22,7 +22,7 @@ router.get('/logout',function(req,res,next){
 router.get('/profile',isLoggedIn,function(req,res,next){
   
   if(!req.session.cart){
-    return res.render('user/profile',{products: null});
+    return res.render('user/profile',{products: null,email:email});
   }
   var cart = new Cart(req.session.cart);
   res.render('user/profile',{totalPrice:cart.totalPrice});
